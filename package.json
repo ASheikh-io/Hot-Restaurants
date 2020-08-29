@@ -1,0 +1,19 @@
+{
+  "name": "hot-restaurant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "HotRestaurant"
+  },
+  "author": "Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
